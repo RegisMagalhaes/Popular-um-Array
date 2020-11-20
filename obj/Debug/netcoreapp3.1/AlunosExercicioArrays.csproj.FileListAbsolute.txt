@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\obj\Debug\netcoreapp3.1\AlunosExercicioArrays.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\obj\Debug\netcoreapp3.1\AlunosExercicioArrays.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\obj\Debug\netcoreapp3.1\AlunosExercicioArrays.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\obj\Debug\netcoreapp3.1\AlunosExercicioArrays.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\bin\Debug\netcoreapp3.1\AlunosExercicioArrays.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\bin\Debug\netcoreapp3.1\AlunosExercicioArrays.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\bin\Debug\netcoreapp3.1\AlunosExercicioArrays.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\bin\Debug\netcoreapp3.1\AlunosExercicioArrays.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\bin\Debug\netcoreapp3.1\AlunosExercicioArrays.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\bin\Debug\netcoreapp3.1\AlunosExercicioArrays.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\obj\Debug\netcoreapp3.1\AlunosExercicioArrays.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\obj\Debug\netcoreapp3.1\AlunosExercicioArrays.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\AlunosExercicioArrays\obj\Debug\netcoreapp3.1\AlunosExercicioArrays.genruntimeconfig.cache
